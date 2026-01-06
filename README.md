@@ -65,14 +65,13 @@ AI-Virtual-Mouse/
 ```
 
 Libraries to install
-```
+
 opencv-python==4.9.0.80
 mediapipe==0.10.9
 numpy==1.26.4
 autopy==4.0.0
 pyautogui==0.9.54
 
-```
 
 
 
